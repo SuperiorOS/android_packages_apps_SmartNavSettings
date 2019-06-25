@@ -16,12 +16,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- SmartNav -->
-    <string name="bottom_nav_navigation_title">Navigation</string>
-    <string name="navbar_interface_title">Interface</string>
-    <string name="navbar_size">Bar size</string>
-    <string name="navbar_mode">Navigation mode</string>
-    <string name="navbar_mode_summary">Select which navigation mode to use on your device</string>
-    <string name="navbar_visibility">Allow navigation bar</string>
+    <string name="bottom_nav_navigation_title">Điều hướng</string>
+    <string name="navbar_interface_title">Giao diện</string>
+    <string name="navbar_size">Kích thước thanh</string>
+    <string name="navbar_mode">Chế độ điều hướng</string>
+    <string name="navbar_mode_summary">Chọn chế độ điều hướng để sử dụng trên thiết bị của bạn</string>
+    <string name="navbar_visibility">Cho phép thanh điều hướng</string>
     <string name="navigationbar_settings_summary">Customize navigation style and behavior</string>
     <string name="navbar_general_title">Advanced</string>
     <string name="navigation_bar_left_title">Left-handed mode</string>
