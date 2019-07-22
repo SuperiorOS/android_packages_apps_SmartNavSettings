@@ -31,23 +31,23 @@
     <string name="image_exceeds_max_allowed_size">Разрешение изображения не должно превышать 512x512</string>
     <string name="invalid_icon_from_uri">Не удается загрузить изображение от контент-провайдера</string>
     <string name="picker_activities">Действия</string>
-    <string name="select_custom_app_title">Выбрать пользовательское приложение</string>
-    <string name="select_custom_activity_title">Выбрать пользовательское действие</string>
+    <string name="select_custom_app_title">Выбрать свое приложение</string>
+    <string name="select_custom_activity_title">Выбрать собственное действие</string>
     <string name="profile_applist_title">Приложения</string>
     <string name="default_string">Стандартная</string>
     <string name="default_settings">Настройки по умолчанию</string>
-    <string name="default_settings_summary">Стандартная панель навигации AOSP</string>
+    <string name="default_settings_summary">Панель навигации AOSP</string>
     <string name="navbar_editor_summary">Настроить панель навигации</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Выбор действия</string>
     <string name="action_entry_default_action">Настройки по умолчанию</string>
     <string name="action_entry_select_app">Выберите приложение</string>
-    <string name="action_entry_custom_action">Выберите пользовательское действие</string>
+    <string name="action_entry_custom_action">Выбрать своё действие</string>
     <!-- Fling -->
     <string name="fling_settings">Настройки Fling</string>
     <string name="fling_settings_summary">Очень уникальная и полностью настраиваемая панель навигации на основе жестов</string>
     <string name="fling_interface">Fling</string>
-    <string name="fling_enable_title">Включить жесты Fling</string>
+    <string name="fling_enable_title">Включить Fling</string>
     <string name="fling_back_home_policy">\"Назад\" и \"Домой\" должны быть установлены всегда. Чтобы изменить назначение \"Назад\" или \"Домой\", сначала установите нужное назначение.\n\nТакже настройка двойного нажатия немного замедлит одиночное нажатие.</string>
     <string name="fling_split_bar_policy">Когда назначено только действие справа или слева, действие применяется ко всей панели.</string>
     <string name="fling_def_summary">Действие не выбрано</string>
@@ -98,10 +98,10 @@
     <string name="fling_longpress_timeout_label_right">Большая задержка</string>
     <string name="fling_longpress_title">Задержка при длительном нажатии</string>
     <string name="fling_longpress_summary">Увеличить или уменьшить время, необходимое для длительно нажатия</string>
-    <string name="fling_keyboard_cursors_title">Действия курсора динамической клавиатуры</string>
+    <string name="fling_keyboard_cursors_title">Управление курсором</string>
     <string name="fling_keyboard_cursors_summary">Двойные нажатия слева/справа управляют движениями курсора влево/вправо при открытой клавиатуре</string>
     <string name="fling_logo_opacity_title">Прозрачность логотипа Fling</string>
-    <string name="fling_factory_reset_title">Восстановить значения по умолчанию</string>
+    <string name="fling_factory_reset_title">Сброс настроек</string>
     <string name="fling_factory_reset_confirm">Вы уверены, что вы хотите сбросить Fling к настройкам по умолчанию?</string>
     <string name="fling_backup_current_config_title">Сохранить профиль</string>
     <string name="fling_restore_config_title">Восстановить профиль</string>
@@ -163,8 +163,8 @@
     <string name="smartbar_help_policy_notice_summary">Находясь в режиме редактирования, нажмите и перетащите кнопку, чтобы изменить ее положение, или зажмите ее для отображения меню редактирования. Положение кнопки может быть изменено во время отображения меню.\n\nНастройка двойного нажатия немного замедлит одиночное.</string>
     <string name="smartbar_context_menu_position_title">Расположение контекстных кнопок</string>
     <string name="smartbar_context_menu_position_summary">Установить расположение контекстных кнопок, таких как меню и выбор способа ввода</string>
-    <string name="smartbar_right">Правая сторона</string>
-    <string name="smartbar_left">Левая сторона</string>
+    <string name="smartbar_right">Справа</string>
+    <string name="smartbar_left">Слева</string>
     <string name="smartbar_button_animation_title">Анимация нажатия кнопки</string>
     <string name="smartbar_button_animation_summary">Установить стиль анимации основных кнопок при нажатии</string>
     <string name="smartbar_button_animation_ripple">Пульсация</string>
@@ -173,11 +173,11 @@
     <string name="smartbar_button_animation_pixel">Pixel (все кнопки)</string>
     <string name="smartbar_button_animation_pixel_home">Pixel (только кнопка \"Домой\")</string>
     <string name="smartbar_button_animation_pixel_home_ripple">Pixel (только кнопка Домой) и пульсация</string>
-    <string name="smartbar_factory_reset_title">Восстановить значения по умолчанию</string>
+    <string name="smartbar_factory_reset_title">Сброс настроек</string>
     <string name="smartbar_factory_reset_confirm">Вы уверены, что вы хотите сбросить Умную панель к настройкам по умолчанию?</string>
     <string name="smartbar_ime_action_title">Способ ввода и медиа-действия</string>
     <string name="smartbar_ime_action_summary">Выберите, какие кнопки показывать, когда на экране отображается клавиатура или играет музыка</string>
-    <string name="smartbar_ime_action_none">Не показывать</string>
+    <string name="smartbar_ime_action_none">Нет</string>
     <string name="smartbar_ime_action_arrows">Стрелки ввода</string>
     <string name="smartbar_ime_action_switcher">Переключатель клавиатуры</string>
     <string name="smartbar_ime_action_dynamic">Стрелки ввода/медиа</string>

@@ -85,7 +85,7 @@
     <string name="fling_trails_width_title">İz genişliği</string>
     <string name="fling_appearance">Görünüm</string>
     <string name="fling_show_logo_title">Fling logosunu göster</string>
-    <string name="fling_animate_logo_title">Logo animasyonu</string>
+    <string name="fling_animate_logo_title">Hareketli logo</string>
     <string name="fling_animate_logo_summary">Dokunma hareketlerinde logo animasyonunu hareketlendir</string>
     <string name="fling_logo_color">Logo rengi</string>
     <string name="fling_logo_custom_logo_pick_title">Özel logo simgesi</string>
@@ -153,7 +153,7 @@
     <string name="portrait_title">Dikey yükseklik</string>
     <string name="land_vert_title">Yatay genişlik</string>
     <string name="land_hor_title">Yatay yükseklik</string>
-    <string name="positive_done">Tamam</string>
+    <string name="positive_done">Bitti</string>
     <!-- SmartBar -->
     <string name="smartbar_category">Akıllı çubuk</string>
     <string name="smartbar_settings_title">Akıllı çubuk ayarları</string>
@@ -177,7 +177,7 @@
     <string name="smartbar_factory_reset_confirm">Akıllı çubuk ayarlarını varsayılan ayarlara sıfırlamak istediğinize emin misiniz?</string>
     <string name="smartbar_ime_action_title">Giriş yöntemi ve medya eylemleri</string>
     <string name="smartbar_ime_action_summary">Bir ekran klavyesi gösterilirken veya müzik çalınırken hangi tuşların gösterileceğini ayarlayın</string>
-    <string name="smartbar_ime_action_none">Hiçbiri</string>
+    <string name="smartbar_ime_action_none">Yok</string>
     <string name="smartbar_ime_action_arrows">İmleç okları</string>
     <string name="smartbar_ime_action_switcher">Klavye değiştirici</string>
     <string name="smartbar_ime_action_dynamic">İmleç/medya okları</string>

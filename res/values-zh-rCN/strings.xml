@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- SmartNav -->
+    <string name="picker_activities">活动</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <!-- Fling -->
     <!-- Pulse navigation bar music visualizer -->

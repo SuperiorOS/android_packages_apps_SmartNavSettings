@@ -16,39 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- SmartNav -->
-    <string name="bottom_nav_navigation_title">Navegação</string>
-    <string name="navbar_interface_title">Interface</string>
-    <string name="navbar_size">Tamanho da barra</string>
-    <string name="navbar_mode">Modo de navegação</string>
-    <string name="navbar_mode_summary">Seleciona qual o modo de navegação a usar no teu dispositivo</string>
-    <string name="navbar_visibility">Permitir barra de navegação</string>
-    <string name="navigationbar_settings_summary">Comportamento estilo e comportamento da navegação</string>
-    <string name="navbar_general_title">Avançado</string>
-    <string name="navigation_bar_left_title">Modo de mão esquerda</string>
-    <string name="navigation_bar_left_summary">Coloque a barra de navegação no lado esquerdo da tela na visão do modo</string>
-    <string name="smartbar_interface">Barra inteligente</string>
-    <string name="icon_pack_picker_dialog_title">Pacote de ícones</string>
-    <string name="image_exceeds_max_allowed_size">A imagem não deve exceder 512x512</string>
-    <string name="invalid_icon_from_uri">Não é possível carregar a imagem do fornecedor de conteúdo</string>
-    <string name="picker_activities">Atividades</string>
-    <string name="select_custom_app_title">Selecione aplicação personalizada</string>
-    <string name="select_custom_activity_title">Selecionar atividade personalizada</string>
-    <string name="profile_applist_title">Aplicações</string>
-    <string name="default_string">Inventário</string>
-    <string name="default_settings">Definições do inventário</string>
-    <string name="default_settings_summary">Barra de navegação AOSP de inventário</string>
-    <string name="navbar_editor_summary">Configurar barra de navegação</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
-    <string name="choose_action_title">Escolher ação</string>
-    <string name="action_entry_default_action">Definições padrão</string>
-    <string name="action_entry_select_app">Selecionar aplicação</string>
-    <string name="action_entry_custom_action">Selecionar ação personalizada</string>
     <!-- Fling -->
-    <string name="fling_settings">Definições de Fling</string>
-    <string name="fling_settings_summary">Uma barra de navegação única, baseada em gestos e completamente personalizável</string>
-    <string name="fling_interface">Fling</string>
-    <string name="fling_enable_title">Ativar Fling</string>
-    <string name="fling_back_home_policy">Os botões, Voltar e Página Inicial devem estabelecer sempre definidos. Para alterar a atribuição de Voltar e Página Inicial, altera, primeiro, a atribuição desejada.\n\nAlém disso, estabelecer uma ação de dois toques que irá atrasar um pouco os toques únicos.</string>
     <!-- Pulse navigation bar music visualizer -->
     <!-- Pulse config -->
     <!-- Navbar height -->

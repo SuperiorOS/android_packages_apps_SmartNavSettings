@@ -16,74 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- SmartNav -->
-    <string name="image_exceeds_max_allowed_size">Obraz nie może przekraczać rozmiaru 512x512</string>
-    <string name="invalid_icon_from_uri">Nie można wczytać obrazu od dostawcy zawartości</string>
-    <string name="picker_activities">Działania</string>
-    <string name="select_custom_app_title">Wybierz własną aplikacje</string>
-    <string name="select_custom_activity_title">Wybierz własną aktywność</string>
-    <string name="profile_applist_title">Aplikacje</string>
-    <string name="default_string">Domyślne</string>
-    <string name="default_settings">Ustawienia domyślne</string>
-    <string name="default_settings_summary">Standardowy pasek nawigacyjny AOSP</string>
-    <string name="navbar_editor_summary">Skonfiguruj pasek nawigacji</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
-    <string name="choose_action_title">Wybierz czynność</string>
-    <string name="action_entry_default_action">Ustawienia domyślne</string>
-    <string name="action_entry_select_app">Wybierz aplikacje</string>
-    <string name="action_entry_custom_action">Wybierz własną akcję</string>
     <!-- Fling -->
-    <string name="fling_settings">Ustawienia Fling</string>
-    <string name="fling_settings_summary">Bardzo unikalny i w pełni konfigurowalny pasek nawigacyjny oparty na gestach</string>
-    <string name="fling_interface">Fling</string>
-    <string name="fling_enable_title">Włącz pasek Fling</string>
-    <string name="fling_back_home_policy">Gesty wstecz i powrotu do strony głównej muszą być ustawione przez cały czas. Aby zmienić przypisanie gestu wstecz lub powrotu do strony głównej, najpierw ustaw żądaną akcję.\n\n Uwaga: ustawienie dwukrotnego dotknięcia spowoduje opóźnienie reakcji na pojedyńcze dotknięcie.</string>
-    <string name="fling_split_bar_policy">Gdy akcja jest przypisana tylko do prawej lub lewej strony, to odnosi się ona do całego paska.</string>
-    <string name="fling_def_summary">Nie wybrano akcji</string>
-    <string name="fling_swipe_actions">Gesty przeciągania</string>
-    <string name="fling_tap_actions">Gesty dotknięcia</string>
-    <string name="fling_short_swipe_right">Krótkie przeciągnięcie w prawo</string>
-    <string name="fling_short_swipe_left">Krótkie przeciągnięcie w lewo</string>
-    <string name="fling_long_swipe_right">Długie przeciągnięcie w prawo</string>
-    <string name="fling_long_swipe_left">Długie przeciągnięcie w lewo</string>
-    <string name="fling_right_up_swipe">Przeciągnięcie w górę po prawej</string>
-    <string name="fling_left_up_swipe">Przeciągnięcie w górę po lewej</string>
-    <string name="fling_single_tap">Pojedyńcze dotknięcie po prawej</string>
-    <string name="fling_double_tap">Dwukrotne dotknięcie po prawej</string>
-    <string name="fling_long_press">Dlugie przytrzymanie po prawej</string>
-    <string name="fling_single_left_tap">Pojedyńcze dotknięcie po lewej</string>
-    <string name="fling_double_left_tap">Dwukrotne dotknięcie po lewej</string>
-    <string name="fling_long_left_press">Dlugie przytrzymanie po lewej</string>
-    <string name="long_swipe_portrait_title">Pionowo</string>
-    <string name="long_swipe_landscape_title">Poziomo</string>
-    <string name="portrait_right_swipe_title">Przeciągnięcie w prawo w trybie pionowym</string>
-    <string name="portrait_left_swipe_title">Przeciągnięcie w lewo w trybie pionowym</string>
-    <string name="landscape_right_swipe_title">Przeciągnięcie w prawo w trybie poziomym</string>
-    <string name="landscape_left_swipe_title">Przeciągnięcie w lewo w trybie poziomym</string>
-    <string name="vertical_up_swipe_title">Pionowe przeciągnięcie w górę</string>
-    <string name="vertical_down_swipe_title">Pionowe przeciągnięcie w dół</string>
-    <string name="up_swipe_title">Przeciągnięcie w góre</string>
-    <string name="down_swipe_title">Przeciągnięcie w dól</string>
-    <string name="long_swipe_reset">Reset</string>
-    <string name="fling_advanced">Opcje zaawansowane</string>
-    <string name="fling_long_swipe_title">Próg długiego przeciągnięcia</string>
-    <string name="fling_long_swipe_summary">Ustaw próg przeciągnięcia, bazując na procentach szerokości/wysokości interfejsu Fling</string>
-    <string name="fling_trails_enable_title">Włącz ślady gestów</string>
     <!-- Pulse navigation bar music visualizer -->
-    <string name="pulse_solid_units_opacity">Przezroczystość linii ciągłych</string>
-    <string name="pulse_solid_dimen_category">Ustawienia trybu linii ciągłych</string>
-    <string name="pulse_custom_buttons_opacity_title">Przezroczystość przycisków Smartbar, gdy jest włączone jest pulsowanie w rytm muzyki</string>
-    <string name="pulse_auto_color_title">Automatyczny kolor pulsu</string>
-    <string name="pulse_auto_color_summary">Synchronizuj kolory z okładkami albumów. Zastępuje lampę lawową i przezroczystość linii.</string>
     <!-- Pulse config -->
-    <string name="pulse_blacklist_title">Lista wykluczonych aplikacji</string>
-    <string name="pulse_blacklist_summary">Aplikacje pomijane przez puls</string>
-    <string name="pulse_blacklist_apps_cat_title">Czarna lista</string>
-    <string name="pulse_blacklist_apps_title">Lista blokowanych aplikacji</string>
-    <string name="pulse_blacklist_apps_summary">Aplikacje nie wyświetlające się w panelu</string>
-    <string name="pulse_blacklist_add_apps_title">Dodaj aplikację</string>
-    <string name="pulse_blacklist_add_apps_summary">Kliknij tutaj, aby dodać, kliknij w dodaną aplikację, aby ją usunąć</string>
-    <string name="pulse_custom_dimen">Szerokość paska</string>
-    <string name="pulse_custom_div">Odstępy na pasku</string>
     <!-- Navbar height -->
     <!-- SmartBar -->
     <!-- Navbar Animation -->

@@ -37,12 +37,12 @@
     <string name="default_string">標準</string>
     <string name="default_settings">標準の設定</string>
     <string name="default_settings_summary">標準 AOSP のナビゲーションバー</string>
-    <string name="navbar_editor_summary">ナビゲーションバーを編集</string>
+    <string name="navbar_editor_summary">ナビゲーションバーを編集する</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">アクションを選択</string>
     <string name="action_entry_default_action">既定の設定</string>
     <string name="action_entry_select_app">アプリの選択</string>
-    <string name="action_entry_custom_action">カスタムアクションを選択</string>
+    <string name="action_entry_custom_action">カスタムアクションの選択</string>
     <!-- Fling -->
     <string name="fling_settings">Fling の設定</string>
     <string name="fling_settings_summary">ユニークで完全に編集可能なジェスチャーベースのナビゲーションバー</string>
@@ -57,8 +57,8 @@
     <string name="fling_short_swipe_left">左に短くスワイプ</string>
     <string name="fling_long_swipe_right">右に長くスワイプ</string>
     <string name="fling_long_swipe_left">左に長くスワイプ</string>
-    <string name="fling_right_up_swipe">右側を上にスワイプ</string>
-    <string name="fling_left_up_swipe">左側を上にスワイプ</string>
+    <string name="fling_right_up_swipe">右を上にスワイプ</string>
+    <string name="fling_left_up_swipe">左を上にスワイプ</string>
     <string name="fling_single_tap">右シングルタップ</string>
     <string name="fling_double_tap">右ダブルタップ</string>
     <string name="fling_long_press">右を長押し</string>
@@ -102,7 +102,7 @@
     <string name="fling_keyboard_cursors_summary">左右のダブルタップアクションは、キーボードが開いている場合は左右のキーボードカーソルアクションになります。</string>
     <string name="fling_logo_opacity_title">Fling ロゴの不透明度</string>
     <string name="fling_factory_reset_title">初期状態にリセット</string>
-    <string name="fling_factory_reset_confirm">本当にFlingを初期設定に戻しても良いですか？</string>
+    <string name="fling_factory_reset_confirm">本当に Fling を初期設定に戻しても良いですか?</string>
     <string name="fling_backup_current_config_title">プロファイルを保存</string>
     <string name="fling_restore_config_title">プロファイルを復元</string>
     <string name="fling_config_name_edit_dialog_title">Fling プロファイル名</string>
@@ -134,7 +134,7 @@
     <string name="pulse_solid_units_opacity">ソリッドラインの不透明度</string>
     <string name="pulse_solid_dimen_category">ソリッドラインの設定</string>
     <string name="pulse_custom_buttons_opacity_title">Pulse 上のスマートバーボタンの透明度</string>
-    <string name="pulse_auto_color_title">自動設定の Pulse カラー</string>
+    <string name="pulse_auto_color_title">Pulse の色の自動設定</string>
     <string name="pulse_auto_color_summary">アルバムアートの色に同期します。ラーヴァランプモードやラインの不透明度を上書きします。</string>
     <!-- Pulse config -->
     <string name="pulse_blacklist_title">アプリのブラックリスト</string>
@@ -145,7 +145,7 @@
     <string name="pulse_blacklist_add_apps_title">アプリを追加</string>
     <string name="pulse_blacklist_add_apps_summary">ここをタップしてアプリを追加し追加済みアプリをタップして削除する</string>
     <string name="pulse_custom_dimen">バーの幅</string>
-    <string name="pulse_custom_div">バーの感覚</string>
+    <string name="pulse_custom_div">バーの間隔</string>
     <string name="pulse_filled_block_size">ブロックの大きさ</string>
     <string name="pulse_empty_block_size">ブロックの間隔</string>
     <!-- Navbar height -->
@@ -180,7 +180,7 @@
     <string name="smartbar_ime_action_none">なし</string>
     <string name="smartbar_ime_action_arrows">方向キー</string>
     <string name="smartbar_ime_action_switcher">IME 切り替え</string>
-    <string name="smartbar_ime_action_dynamic">入力/メディアの矢印</string>
+    <string name="smartbar_ime_action_dynamic">入力/メディア の矢印</string>
     <string name="smartbar_backup_current_config_title">プロファイルを保存</string>
     <string name="smartbar_restore_config_title">プロファイルを復元</string>
     <string name="smartbar_config_name_edit_dialog_title">スマートバープロファイル名</string>
