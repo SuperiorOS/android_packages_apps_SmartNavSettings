@@ -22,5 +22,6 @@
     <!-- Pulse config -->
     <!-- Navbar height -->
     <!-- SmartBar -->
+    <string name="one_hand_mode_title">Режим керування однією рукою</string>
     <!-- Navbar Animation -->
 </resources>
