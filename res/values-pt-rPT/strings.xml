@@ -16,11 +16,55 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- SmartNav -->
+    <string name="navbar_general_title">Avançada</string>
+    <string name="smartbar_interface">Barra Inteligente</string>
+    <string name="icon_pack_picker_dialog_title">Pacote de ícones</string>
+    <string name="picker_activities">Atividades</string>
+    <string name="profile_applist_title">Aplicações</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
+    <string name="choose_action_title">Escolher ação</string>
+    <string name="action_entry_default_action">Definições predefinidas</string>
+    <string name="action_entry_select_app">Selecionar aplicação</string>
+    <string name="action_entry_custom_action">Selecionar ação personalizada</string>
     <!-- Fling -->
+    <string name="fling_settings">Definições de Fling</string>
+    <string name="fling_interface">Fling</string>
+    <string name="fling_enable_title">Ativar Fling</string>
+    <string name="fling_def_summary">Nenhuma ação definida</string>
+    <string name="fling_swipe_actions">Gestos de deslizar</string>
+    <string name="fling_tap_actions">Gestos de toque</string>
+    <string name="long_swipe_portrait_title">Retrato</string>
+    <string name="long_swipe_landscape_title">Paisagem</string>
     <!-- Pulse navigation bar music visualizer -->
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">Lista negra de aplicações</string>
+    <string name="pulse_blacklist_apps_cat_title">Lista Negra</string>
+    <string name="pulse_blacklist_apps_title">Lista negra de aplicações</string>
+    <string name="pulse_custom_dimen">Largura da barra</string>
+    <string name="pulse_custom_div">Espaçamento da barra</string>
+    <string name="pulse_filled_block_size">Tamanho do bloco</string>
+    <string name="pulse_empty_block_size">Espaçamento do bloco</string>
     <!-- Navbar height -->
+    <string name="navigation_bar_size_title">Tamanho da barra</string>
+    <string name="portrait_title">Altura retrato</string>
+    <string name="land_vert_title">Largura paisagem</string>
+    <string name="land_hor_title">Altura paisagem</string>
+    <string name="positive_done">Concluído</string>
     <!-- SmartBar -->
+    <string name="smartbar_category">Barra inteligente</string>
+    <string name="smartbar_settings_title">Definições da barra inteligente</string>
+    <string name="smartbar_editor_title">Iniciar modo de edição</string>
+    <string name="smartbar_right">Direita</string>
+    <string name="smartbar_left">Esquerda</string>
+    <string name="smartbar_button_animation_title">Animação de toque do botão</string>
+    <string name="smartbar_ime_action_none">Nenhuma</string>
+    <string name="smartbar_backup_current_config_title">Guardar perfil</string>
+    <string name="smartbar_restore_config_title">Restaurar perfil</string>
+    <string name="smartbar_config_name_edit_dialog_title">Nome do perfil da barra inteligente</string>
+    <string name="smartbar_config_name_edit_dialog_message">Insira um nome ou deixe em branco</string>
+    <string name="smartbar_config_dialog_title">Perfis da barra inteligente</string>
+    <string name="smartbar_longpress_delay_default">Atraso predefinido (rápido)</string>
+    <string name="smartbar_longpress_delay_normal">Atraso normal</string>
+    <string name="smartbar_longpress_delay_long">Atraso longo</string>
     <!-- Navbar Animation -->
 </resources>
